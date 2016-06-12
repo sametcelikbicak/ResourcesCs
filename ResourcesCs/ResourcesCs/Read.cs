@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Resources;
+﻿using System.Globalization;
 using System.Reflection;
-using System.Globalization;
+using System.Resources;
 
 namespace ResourcesCs
 {
@@ -17,6 +12,4 @@ namespace ResourcesCs
             return rm.GetString(key, culture);
         }
     }
-
-
 }
