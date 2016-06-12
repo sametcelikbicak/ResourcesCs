@@ -61,7 +61,7 @@ namespace ResourcesCs.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Merhab Dünya.
+        ///   Looks up a localized string similar to Merhaba Dünya.
         /// </summary>
         internal static string HelloWorld {
             get {
